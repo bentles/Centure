@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-04-07T16:55:01.1906228+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform1.png</Source>
+      <Name>tutplatform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform1.xnb</Output>
+      <Time>2012-04-12T22:07:16.3828311+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallChar.bmp</Source>
+      <Name>SmallChar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SmallChar.xnb</Output>
+      <Time>2012-03-22T21:19:27.2099291+02:00</Time>
+    </Item>
+    <Item>
+      <Source>midground.png</Source>
+      <Name>midground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\midground.xnb</Output>
+      <Time>2012-02-05T20:38:57.5622358+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BigChar.png</Source>
+      <Name>BigChar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BigChar.xnb</Output>
+      <Time>2012-02-09T12:52:22.958125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform3.png</Source>
+      <Name>tutplatform3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform3.xnb</Output>
+      <Time>2012-04-12T23:21:28.4318332+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform2.png</Source>
+      <Name>tutplatform2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform2.xnb</Output>
+      <Time>2012-04-12T22:11:19.6920323+02:00</Time>
+    </Item>
+    <Item>
+      <Source>YPosFont.spritefont</Source>
+      <Name>YPosFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\YPosFont.xnb</Output>
+      <Time>2012-01-30T10:49:43.0665362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>text.spritefont</Source>
+      <Name>text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\text.xnb</Output>
+      <Time>2012-03-12T20:27:33.7471789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutback.png</Source>
+      <Name>tutback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback.xnb</Output>
+      <Time>2012-04-12T23:13:04.5281937+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform4.png</Source>
+      <Name>tutplatform4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform4.xnb</Output>
+      <Time>2012-04-12T21:57:02.7689719+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform5.png</Source>
+      <Name>tutplatform5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform5.xnb</Output>
+      <Time>2012-04-12T22:22:40.2708327+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform6.png</Source>
+      <Name>tutplatform6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform6.xnb</Output>
+      <Time>2012-04-12T22:34:57.4766145+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform7.png</Source>
+      <Name>tutplatform7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform7.xnb</Output>
+      <Time>2012-04-12T23:53:43.520393+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutplatform8.png</Source>
+      <Name>tutplatform8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform8.xnb</Output>
+      <Time>2012-04-14T22:34:13.8486512+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tutback2.png</Source>
+      <Name>tutback2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback2.xnb</Output>
+      <Time>2012-04-14T16:55:33.6630639+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-04T20:24:45.3352408+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

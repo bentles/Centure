@@ -1,0 +1,4 @@
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache

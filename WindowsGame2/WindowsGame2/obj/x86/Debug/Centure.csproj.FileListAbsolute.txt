@@ -1,0 +1,71 @@
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform1.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SmallChar.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\midground.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BigChar.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform3.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform2.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\YPosFont.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\text.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe.manifest
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.application
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.pdb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe.manifest
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.application
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\GAMETASTIC\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.pdb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform1.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SmallChar.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\midground.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BigChar.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform3.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform2.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\YPosFont.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\text.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe.manifest
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.application
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.pdb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe.manifest
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.application
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.pdb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform4.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform5.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform6.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform7.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform8.xnb
+C:\Users\Douglas\Documents\Visual Studio 2010\Projects\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback2.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform1.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SmallChar.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\midground.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BigChar.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform3.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform2.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform4.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform5.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform6.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform7.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutplatform8.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tutback2.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\YPosFont.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\text.xnb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe.manifest
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.application
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.exe
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\bin\x86\Debug\Centure.pdb
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.csprojResolveAssemblyReference.cache
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe.manifest
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.application
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.exe
+C:\Users\Bentles\Downloads\GameDev\Centure\COLLISION CHANGE ATTEMPT\WindowsGame2\WindowsGame2\obj\x86\Debug\Centure.pdb
